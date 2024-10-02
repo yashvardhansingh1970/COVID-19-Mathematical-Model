@@ -49,6 +49,6 @@ etc.
 The countries that we have selected are: Brazil, Japan and Nigeria.
 If we talk about the country’s population then according to 
 https://www.worldometers.info/
-1. The population of Brazil is 216016535
-2. The population of Japan is 125591188
-3. The population of Nigeria is 217933707
+1. The population of Brazil is 216M
+2. The population of Japan is 125M
+3. The population of Nigeria is 217M
